@@ -14,4 +14,4 @@ Course source : [LinkedinLearn]
 Course author : [JoeChellman]
 
 [LinkedinLearn]: https://www.linkedin.com/learning
-[Joe Chellman]: https://www.linkedin.com/in/joechellman/?trk=lil_instructor
+[JoeChellman]: https://www.linkedin.com/in/joechellman/?trk=lil_instructor
