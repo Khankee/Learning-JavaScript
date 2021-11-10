@@ -9,8 +9,9 @@ All the topics covered by me:
 * Functions
 * More Advanced Pieces
 
-Course source : [LinkedinLearn] Linkedin Learn
-Course author : [JoeChellman] Joe Chellman
+Course source : [LinkedinLearn]
+<br>
+Course author : [JoeChellman]
 
 [LinkedinLearn]: https://www.linkedin.com/learning
-[JoeChellman]: https://www.linkedin.com/in/joechellman/?trk=lil_instructor
+[Joe Chellman]: https://www.linkedin.com/in/joechellman/?trk=lil_instructor
