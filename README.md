@@ -1,4 +1,4 @@
-Learning the basics of JavaScript
+# Learning the basics of JavaScript
 
 All the topics covered by me:
 * Syntax
